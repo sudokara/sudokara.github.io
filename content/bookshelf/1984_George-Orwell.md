@@ -14,6 +14,6 @@ ___
   
   
   
-  
+<!--   
 ***¡SPOILER BELOW!***  
-Some parts must be dredged through though, especially the sudden long chapter of Goldstein's book, and too much of the story was spent on the love interest.
+Some parts must be dredged through though, especially the sudden long chapter of Goldstein's book, and too much of the story was spent on the love interest. -->
