@@ -12,4 +12,6 @@ ___
 
 Also, I am a final year Bachelors student at [IIIT Hyderabad](https://iiit.ac.in) and am working under [Dr. Karthik Vaidhyanathan](https://karthikvaidhyanathan.com/) in the Software Engineering Research Center (SERC). I'm interested in MLOps, GenAI for Software Engineering (GenAI4SE) and Serverless Computing. I hope to make meaningful contributions in this space that bridge the gap between research and practice.  
 
-Although it seems like my list of side projects gets longer and longer without any progress, this site you're seeing (hopefully) is evidence that I've started ticking things off the list. Check out my posts for some random opinions and interests or the bookshelf to see what I thought about books I've read.  
+Although it seems like my list of side projects gets longer and longer without any progress, this site you're seeing (hopefully) is evidence that I've started ticking things off the list. Check out my posts for some random opinions and interests or the bookshelf to see what I thought about books I've read (both coming soon™).  
+
+I'm also using this site to store open versions of my publications, including: ["Towards Architecting Sustainable MLOps: A Self-Adaptation Approach", ICSA 2024 Best Poster](/publications/icsa2024poster.pdf) and ["LLMs for Generation of Architectural Components: An Exploratory Empirical Study in the Serverless World", ICSA 2025 Main Track](/publications/icsa2025paper.pdf).

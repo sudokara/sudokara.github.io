@@ -14,7 +14,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     description = "" # Used as default meta description if not specified in front matter
     dark_mode = false                      # optional - defaults to false
     favicon = "https://avatars.githubusercontent.com/u/97931056?v=4"             # path to favicon (defaults to favicon.png)
-    # favicon = "images/gh_profile_picture.png"             # path to favicon (defaults to favicon.png)
+    # favicon = "/static/images/gh_profile_picture.png"             # path to favicon (defaults to favicon.png)
 
     front_page_content = ["posts"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
