@@ -1,0 +1,40 @@
+baseURL = 'https://sudokara.com/'
+languageCode = 'en-us'
+title = 'Shrikara Arun'
+theme = "hugo-bearcub"
+copyright = "Shrikara Arun"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+
+[markup]
+    [markup.highlight]
+        lineNos = true
+        lineNumbersInTable = false
+        # This allows Bear Cub to use a variation of Dracula that is more accessible
+        # to people with poor eyesight. For more information about color contrast
+        # and accessibility, see https://web.dev/color-and-contrast-accessibility/
+        noClasses = false
+
+[languages]
+    [languages.en]
+        title = "Shrikara Arun"
+        languageName = "en-US"
+        languageCode = "en-US"
+        contentDir = "content"
+        [languages.en.params]
+            madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub) ᕦʕ •ᴥ•ʔᕤ"
+
+[params]
+    description = "Shrikara Arun"
+    favicon = "images/favicon.png"
+    dateFormat = "2020-01-01"
+    title = "Shrikara Arun"
+
+    [params.social]
+    github = "sudokara"
+    linkedin = "https://linkedin.com/in/shrikaraa"
+
+    [params.author]
+    name = "Shrikara Arun"
+    email = "contact@sudokara.com"

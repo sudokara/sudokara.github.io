@@ -1,0 +1,3 @@
+[submodule "sudokara/themes/hugo-bearcub"]
+	path = sudokara/themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub

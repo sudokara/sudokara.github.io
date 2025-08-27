@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shrikara Arun</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Shrikara Arun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>contact@sudokara.com (Shrikara Arun)</managingEditor>
+    <webMaster>contact@sudokara.com (Shrikara Arun)</webMaster>
+    <copyright>Shrikara Arun</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@sudokara.com (Shrikara Arun)</author>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=cQE-Y5AAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt; | &lt;a href=&#34;https://dblp.org/pid/375/2000.html&#34;&gt;DBLP&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here are the open versions of my publications. Note that some may be preprints and slightly different from the final published version.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../preprints/icsa2024poster.pdf&#34;&gt;&lt;em&gt;&lt;strong&gt;“Towards Architecting Sustainable MLOps: A Self-Adaptation Approach”&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; - a poster in &lt;a href=&#34;https://conf.researchr.org/track/icsa-2024/icsa-2024-poster-track?&#34;&gt;ICSA 2024&lt;/a&gt; (International Conference on Software Architecture). Won the best poster award.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../preprints/icsa2025paper.pdf&#34;&gt;&lt;em&gt;&lt;strong&gt;“LLMs for Generation of Architectural Components: An Exploratory Empirical Study in the Serverless World”&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; in &lt;a href=&#34;https://conf.researchr.org/track/icsa-2025/icsa-2025-papers?&#34;&gt;ICSA 2025 Research Track&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../preprints/cain2025paper.pdf&#34;&gt;&lt;em&gt;&lt;strong&gt;“Engineering LLM Powered Multi-agent Framework for Autonomous CloudOps”&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; in &lt;a href=&#34;https://conf.researchr.org/track/cain-2025/cain-2025-call-for-papers#engineering-llm-powered-multi-agent-framework-for-autonomous-cloudops&#34;&gt;CAIN 2025 Research &amp;amp; Experience Track&lt;/a&gt; (Conference on AI Engineering). Was a Distinguished Paper Award Candidate.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><a href="https://scholar.google.com/citations?user=cQE-Y5AAAAAJ&amp;hl=en">Google Scholar</a> | <a href="https://dblp.org/pid/375/2000.html">DBLP</a></p>
+<p>Here are the open versions of my publications. Note that some may be preprints and slightly different from the final published version.</p>
+<ul>
+<li>
+<p><a href="../preprints/icsa2024poster.pdf"><em><strong>“Towards Architecting Sustainable MLOps: A Self-Adaptation Approach”</strong></em></a> - a poster in <a href="https://conf.researchr.org/track/icsa-2024/icsa-2024-poster-track?">ICSA 2024</a> (International Conference on Software Architecture). Won the best poster award.</p>
+</li>
+<li>
+<p><a href="../preprints/icsa2025paper.pdf"><em><strong>“LLMs for Generation of Architectural Components: An Exploratory Empirical Study in the Serverless World”</strong></em></a> in <a href="https://conf.researchr.org/track/icsa-2025/icsa-2025-papers?">ICSA 2025 Research Track</a>.</p>
+</li>
+<li>
+<p><a href="../preprints/cain2025paper.pdf"><em><strong>“Engineering LLM Powered Multi-agent Framework for Autonomous CloudOps”</strong></em></a> in <a href="https://conf.researchr.org/track/cain-2025/cain-2025-call-for-papers#engineering-llm-powered-multi-agent-framework-for-autonomous-cloudops">CAIN 2025 Research &amp; Experience Track</a> (Conference on AI Engineering). Was a Distinguished Paper Award Candidate.</p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Now</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@sudokara.com (Shrikara Arun)</author>
+      <guid>http://localhost:1313/now/</guid>
+      <description>&lt;p&gt;Things I think are cool/am doing right now:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a decent tiling window manager workflow for macOS&lt;/li&gt;&#xA;&lt;li&gt;split mechanical keyboards&lt;/li&gt;&#xA;&lt;li&gt;trackball mice&lt;/li&gt;&#xA;&lt;li&gt;split mechanical keyboards WITH a trackball !! (Ex: &lt;a href=&#34;https://bastardkb.com/charybdis/&#34;&gt;Charybdis&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;self-hosting and homelabbing&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://bangalore.pythonindia.org&#34;&gt;BangPypers&lt;/a&gt;, The Bangalore Python User Group - I attended their August meetup, was very fun&lt;/li&gt;&#xA;&lt;li&gt;a minimal static website theme that&amp;rsquo;s also decently functional - search, latex, a social card&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Use the reply button below if you have something else I&amp;rsquo;ll like or you just want to chat&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Things I think are cool/am doing right now:</p>
+<ul>
+<li>a decent tiling window manager workflow for macOS</li>
+<li>split mechanical keyboards</li>
+<li>trackball mice</li>
+<li>split mechanical keyboards WITH a trackball !! (Ex: <a href="https://bastardkb.com/charybdis/">Charybdis</a>)</li>
+<li>self-hosting and homelabbing</li>
+<li><a href="https://bangalore.pythonindia.org">BangPypers</a>, The Bangalore Python User Group - I attended their August meetup, was very fun</li>
+<li>a minimal static website theme that&rsquo;s also decently functional - search, latex, a social card</li>
+</ul>
+<p>Use the reply button below if you have something else I&rsquo;ll like or you just want to chat</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
