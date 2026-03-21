@@ -1,0 +1,62 @@
+baseURL = "https://sudokara.com"
+languageCode = "en-us"
+title = "Shrikara Arun"
+theme="archie"
+copyright = "© Shrikara"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[params]
+	mode="toggle"
+	useCDN=false
+	# subtitle = ""
+	mathjax = true # enable MathJax support
+	# katex = true # enable KaTeX support
+	favicon = "static/images/favicon.png"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/sudokara"
+
+[[params.social]]
+name = "Google Scholar"
+icon = "/images/icons8-google-scholar.svg"
+url = "https://scholar.google.com/citations?user=cQE-Y5AAAAAJ&hl=en"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linked.in/shrikaraa/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 3
+
+[[menu.main]]
+name = "Publications"
+url = "/publications"
+weight = 4
+
+[[menu.main]]
+name = "Library"
+url = "/library"
+weight = 5
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true

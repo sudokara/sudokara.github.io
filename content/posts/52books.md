@@ -1,0 +1,16 @@
+---
+title: "Reading 52 books in 2026"
+date: 2026-03-21
+description: "I've seen so many videos about reading a book a week. It's my turn now (to read a book a week not to make a youtube video)"
+tags: [reading, books]
+---
+
+I used to read a lot of fiction as a kid. I think I bought *several* Geronimo Stiltons in every Scholastic book fair at school (yes, sometimes it was to get the stuff that you would get if you spent more than ₹x). Eventually, I did graduate to ye olde Harry Potter and Percy Jackson and stuff. A big influence for me was that my mother read a **lot** of books. We would go to Sapna, a book store in Bangalore once a month to buy books, and I was constrained to buy one fiction and one non fiction (sciencey/learning) book. She would usually buy self help, a category that I have not understood for the longest time, even though I have read some myself (yes I have read Atomic Habits).
+
+Somewhere along the way, this ritual stopped. My time was filled more with YouTube and movies than Poirot or Holmes. Ironically, it was on YouTube that I kept seeing videos about people wanting to read more and challenging themselves to read a book a week. They touted benefits like better attention span (something which my generation desperately needs), reduced anxiety and even more imaginative dreams.
+
+By this time, I was already mostly using e-books. I don't use goodreads (owned by amazon + it feels clunky) and setting up storygraph kept getting procrastinated. So I checked my apple books reading log to see how many books I'd read over the years. I know I'm undercounting a bit (or a lot, I don't remember) by not including physical copies, but I just don't have that information. In 2023, I read 5 books. In 2024, I read 9. In 2025, I read a solid 20. A pretty nice increase YoY, approximately doubling. So for 2026, instead of aiming for 40, I decided to just go for 52.
+
+My calibre library currently has 164 books, most of which are unread, and is ever growing. My strategy for deciding which book to read is vibes (mostly). Some weeks I pick the one that I've been wanting to read for a long while, some weeks I start a series and need to read all of the rest. In week 8, I read Ghost Eye by Amitav Ghosh because it had just come out and I hadn't read an Indian authors work in a while. For week 9, I found the cover of Memory Police by Yoko Ogawa pretty. For week 10, I'm reading James Joyce because of it being mentioned in the show A Man on the Inside.
+
+Clearly I have no structure to this. All I know is that I want to read books that I find interesting/ impactful/ worth reading. I don't find the need to police whether I'm reading enough of an author or a genre. I am trying to work in more technical content (like O'Reilly books) on the side as well, but I'm not counting those towards my 52 books. I haven't found myself looking for shorter books to have an easier time hitting 52 or pressuring myself to finish the book for the week. I think thats antithetical to what I'm trying to do, which is just to read more. Maybe I hit 52, maybe I don't, but I'll have read stuff. 
