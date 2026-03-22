@@ -56,6 +56,11 @@ name = "Library"
 url = "/library"
 weight = 5
 
+[[menu.main]]
+name = "Now"
+url = "/now"
+weight = 5
+
 [markup]
 	[markup.goldmark]
 		[markup.goldmark.renderer]
